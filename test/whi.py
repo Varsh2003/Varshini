@@ -2,9 +2,10 @@ print("Welcome to the interested puzzle game !!")
 print("Start the game : Im the mental in my class who am I")
 
 count=0
+
 while count<4:
     ans=input("Enter your ans : ")
-    if ans=="priya":
+    if ans=="varshini":
         print("HAHA!! YOU WON")
         exit()
     else:
