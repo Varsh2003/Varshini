@@ -1,0 +1,19 @@
+{
+  "stu_details": [
+    {
+      "stu_name": "Varshini",
+      "stu_mark": "90",
+      "stu_age": "19"
+    },
+    {
+      "stu_name": "Bopika",
+      "stu_mark": "25",
+      "stu_age": "20"
+    },
+    {
+      "stu_name": "priya",
+      "stu_age": "48",
+      "stu_mark": "15"
+    }
+  ]
+}
