@@ -1,3 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("Welcome to the interested puzzle game !!")
 print("Start the game : Im the mental in my class who am I")
 
