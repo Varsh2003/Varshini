@@ -1,22 +1,16 @@
 {
-    "patient": [
-        {
-            "name": "priya",
-            "age": "40",
-            "pro": "fever",
-            "days": "3 weeks"
-        },
-        {
-            "name": "varshini",
-            "age": "19",
-            "pro": "fever",
-            "days": "2 days"
-        },
-        {
-            "name": "bopika",
-            "age": "21",
-            "pro": "fever",
-            "days": "2days"
-        }
-    ]
+   "patient": [
+      {
+         "name": "varshini",
+         "age": "19",
+         "pro": "fever",
+         "days": "2 days"
+      },
+      {
+         "name": "bopika",
+         "age": "21",
+         "pro": "fever",
+         "days": "2days"
+      }
+   ]
 }
